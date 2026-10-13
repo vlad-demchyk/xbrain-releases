@@ -25,4 +25,4 @@ XBrain checks for a new version on start and once a day, and updates itself from
 
 XBrain is free to use for personal and commercial work. It is provided as is, without warranty of
 any kind. Redistributing or modifying the application is not permitted without the author's
-permission. Your notes stay on your machine; XBrain sends nothing anywhere unless you turn sync on.
+permission. Your notes stay on your machine; XBrain sends nothing anywhere unless you turn sync on, apart from asking this repository for the newest version (Settings → Updates turns that off).
